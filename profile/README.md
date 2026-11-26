@@ -59,16 +59,6 @@ We do not seek to resurrect the past exactly as it was.
 
 **We want to take its useful fragments, recompile them for new problems, and see what they become.**
 
-### --> Flagship
-
-Our flagship project is **MORAM**, a deque-based instruction set architecture exploring an alternative foundation for abstract machine design.
-
-MORAM is an example of the kind of question LambdaPhi exists to ask:
-
-> **What if the machine didn't have to look the way we normally expect a machine to look?**
-
-Future projects may explore equally unconventional ideas across programming languages, operating systems, compilers, runtimes, machine architectures, and software licensing.
-
 ### --> Philosophy
 
 LambdaPhi does not promise that every experiment will succeed.
